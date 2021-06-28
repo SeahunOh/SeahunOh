@@ -1,5 +1,5 @@
 #### shpik
-- Live in Tokyo
+- Live in Saitama
 - Working: LINE Corporation
 - Team: @ReverseLab 
 - Games: Rainbow 6 Siege, Fire Emblem Three Houses, League of Legends
